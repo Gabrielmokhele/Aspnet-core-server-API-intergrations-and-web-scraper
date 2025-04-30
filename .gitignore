@@ -1,0 +1,14 @@
+# Ignore build output folders
+bin/
+obj/
+
+# Ignore Chrome binaries
+**/Chrome/**/*.dll
+**/Chrome/**/*.exe
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore IDE files
+.vs/
